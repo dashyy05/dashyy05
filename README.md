@@ -6,7 +6,7 @@
 
 ## You can find me on:
 - [dashyy05@gmail.com](mailto:dashyy05@gmail.com)
-- [<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></code> dashyy#4306](https://discord.com/users/dashyy#4306)
+- [<code><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></code> dashyy#4306](https://discord.com/users/)
 
 # My stats:
 [![dashyy05's github stats](https://github-readme-stats.vercel.app/api?username=dashyy05&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
