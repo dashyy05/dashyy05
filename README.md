@@ -8,7 +8,6 @@ I'm 15 years old student, developer who is learning python and web development r
 <img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
 <br>
-<br>
 
 ### Editors I use:
 <img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"/>
