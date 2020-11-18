@@ -1,17 +1,25 @@
 ## Ello welcome to my page, I'm dashyy
 
 ### About me:
-I'm 15 years old student, developer who is learning python and web development right now.
+I'm 15 years old student, developer who is learning python and web development right now. I've been learning python for like 4 months now and i think i'm good in it so i started to learn web development too.
 
-### I know: 
-Python <code><img alt="Python" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-Web development(Html and Css)
+### Languages I know:
+<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+<br>
+<br>
 
-### My email:
+### Editors I use:
+<img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+
+
+### My email adress:
 [dashyy05@gmail.com](mailto:dashyy05@gmail.com)
 
 ### Social medias
-[<img align="left" alt="dashyy#4306 | discord" src="https://img.icons8.com/ios-filled/48/000000/discord-logo.png"/>](https://discord.com/users/597175122222252038)
+[<img align="left" alt="dashyy#4306 | discord" src="https://img.icons8.com/ios-filled/48/000000/discord-logo.png"/>](https://discord.com/users/315869858296365058)
 <br>
 
 
