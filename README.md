@@ -1,4 +1,4 @@
-## Ello welcome to my page, I'm [dashyy05](https://github.com/dashyy05)
+## Ello welcome to my page, I'm dashyy
 
 ### About me:
 I'm 15 years old student, developer who is learning python and web development right now.
@@ -17,4 +17,4 @@ Web development(Html and Css)
 
 ### My github stats:
 [![dashyy05's github stats](https://github-readme-stats.vercel.app/api?username=dashyy05&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![dashyy05's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=dashyy05&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izzy-q&hide=powershell&theme=dark&layout=compact)]()
