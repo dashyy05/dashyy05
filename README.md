@@ -1,7 +1,8 @@
 ## Ello welcome to my page, I'm dashyy
 
 ### About me:
-I'm 15 years old student, developer who is learning python and web development right now. I've been learning python for like 4 months now and i think i'm good in it so i started to learn web development too.
+I'm 15 years old student, developer who is learning python and web development right now. I've been learning python for like 4 months now and i think i'm good in it.
+I started to learn web development around 3 months ago
 
 ### Languages I know:
 <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
