@@ -1,16 +1,14 @@
 ## Ello welcome to my page, I'm dashyy
 
 ### About me:
-I'm 15 years old student, developer who is learning python and web development right now. I've been learning python for like 4 months now and i think i'm good in it.
-I started to learn web development around 3 months ago
+I'm 16 years old student, developer who is learning python and C++ right now. I've been learning python for like 5 months now and i think i'm good in it.
 
 ### Languages I know:
-<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <br>
 
 ### Editors I use:
-<img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
 
 ### My email adress:
