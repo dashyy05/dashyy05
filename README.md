@@ -6,8 +6,7 @@ I started to learn web development around 3 months ago
 
 ### Languages I know:
 <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/html-5.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <br>
 
 ### Editors I use:
