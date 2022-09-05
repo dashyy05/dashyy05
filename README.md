@@ -1,7 +1,7 @@
 ## Ello welcome to my page, I'm dashyy
 
 ### About me:
-I'm 16 years old student, developer who is learning python and C++ right now. I've been learning python for like 5 months now and i think i'm good in it.
+I'm 17 years old student, developer who is learning python and C++ right now. I've been learning python for like 5 months now and i think i'm good in it.
 
 ### Languages I know:
 <img src="https://img.icons8.com/dusk/64/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
